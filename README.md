@@ -1,1 +1,1 @@
-# Python study contents will be uploaded
+# Python study contents
